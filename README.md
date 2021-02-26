@@ -5,5 +5,10 @@
 *使用工具
 >環境:colab<br>
 >資料處理:Numpy、Pandas、Statistic<br>
+>視覺化:Matplot、seaborn、、、<br>
+>機器學習:knn補值<br>
 
 *使用技能<br>
+>數理統計
+>各項檢定實作
+
